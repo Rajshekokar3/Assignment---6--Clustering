@@ -14,7 +14,8 @@ Correlation heatmaps.
 Pair plots.
 Cluster scatter plots.
 Performance Metrics: Silhouette score comparison for clustering methods.
-Dataset
+
+# Dataset
 The dataset is loaded from an Excel file named EastWestAirlines.xlsx, which contains customer data for clustering analysis.
 
 # Requirements
